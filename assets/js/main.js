@@ -148,7 +148,7 @@
 				$('.main.style1')
 					.scrollex({
 						mode: 'middle',
-						delay: 20,
+						delay: 50,
 						initialize: function () {
 							$(this).addClass('inactive');
 						},
